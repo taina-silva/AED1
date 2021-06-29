@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1617057482 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade 06 - implementação do tad\questão01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"complexo.h"
+	<locale.h>
+
+1617057482 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade 06 - implementação do tad\questão01\complexo.c
+	<stdio.h>
+	<stdlib.h>
+	"complexo.h"
+
+1617057482 c:\users\huuh9\desktop\faculdade\período\aed1\atividade 06 - implementação do tad\questão01\complexo.h
+
+1617145648 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência - listas sequenciais\questão01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1617150764 c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência - listas sequenciais\questão01\lista.h
+
+1617150737 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência - listas sequenciais\questão01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<locale.h>
+
+1617747888 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência 02 - listas endadeadas\questão01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<locale.h>
+
+1617742530 c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência 02 - listas endadeadas\questão01\lista.h
+
+1617748174 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência 02 - listas endadeadas\questão01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<string.h>
+
+1617749067 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência 02 - listas endadeadas - copia (2)\questão01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<string.h>
+
+1617742530 c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência 02 - listas endadeadas - copia (2)\questão01\lista.h
+
+1617749127 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência 02 - listas endadeadas - copia (2)\questão01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<locale.h>
+
+1617751665 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência 02 - listas endadeadas - copia (2)\questão02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<locale.h>
+
+1617750054 c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência 02 - listas endadeadas - copia (2)\questão02\lista.h
+
+1617751885 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência 02 - listas endadeadas - copia (2)\questão02\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<string.h>
+
+1617760236 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência 02 - listas endadeadas\questão02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<locale.h>
+
+1617760177 c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência 02 - listas endadeadas\questão02\lista.h
+
+1617760177 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade frequência 02 - listas endadeadas\questão02\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<string.h>
+
+1617840065 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade 08  - listas endadeadas\questao01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<locale.h>
+
+1617834265 c:\users\huuh9\desktop\faculdade\período\aed1\atividade 08  - listas endadeadas\questao01\lista.h
+
+1617840474 source:c:\users\huuh9\desktop\faculdade\período\aed1\atividade 08  - listas endadeadas\questao01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<string.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1622123078 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\deque\deque.c
+	<stdio.h>
+	<stdlib.h>
+	"deque.h"
+
+1622123078 c:\users\taina\documents\período - 2\aed1\outras estruturas\deque\deque.h
+
+1622123478 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\deque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"deque.h"
+

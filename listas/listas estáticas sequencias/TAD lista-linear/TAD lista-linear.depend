@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1617151032 source:c:\users\taina\documents\período - 2\aed1\tad lista-linear\listanord.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+
+1617154380 c:\users\taina\documents\período - 2\aed1\tad lista-linear\lista.h
+
+1617153006 source:c:\users\taina\documents\período - 2\aed1\tad lista-linear\listaord.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+
+1617154655 source:c:\users\taina\documents\período - 2\aed1\tad lista-linear\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+

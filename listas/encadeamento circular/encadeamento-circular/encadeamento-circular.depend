@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1618669979 source:c:\users\taina\documents\período - 2\aed1\encadeamento-circular\circular.c
+	<stdio.h>
+	<stdlib.h>
+	"circular.h"
+
+1618596557 c:\users\taina\documents\período - 2\aed1\encadeamento-circular\circular.h
+
+1618600092 source:c:\users\taina\documents\período - 2\aed1\encadeamento-circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circular.h"
+
+1618682147 source:c:\users\taina\documents\período - 2\aed1\prática avaliativa - encadeamento circular\encadeamento-circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circular.h"
+
+1618681936 c:\users\taina\documents\período - 2\aed1\prática avaliativa - encadeamento circular\encadeamento-circular\circular.h
+
+1618682119 source:c:\users\taina\documents\período - 2\aed1\prática avaliativa - encadeamento circular\encadeamento-circular\circular.c
+	<stdio.h>
+	<stdlib.h>
+	"circular.h"
+
+1618682119 source:c:\users\taina\documents\período - 2\aed1\listas\encadeamento circular\encadeamento-circular\circular.c
+	<stdio.h>
+	<stdlib.h>
+	"circular.h"
+
+1618681936 c:\users\taina\documents\período - 2\aed1\listas\encadeamento circular\encadeamento-circular\circular.h
+
+1618682147 source:c:\users\taina\documents\período - 2\aed1\listas\encadeamento circular\encadeamento-circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circular.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1621378066 source:c:\users\taina\documents\período - 2\aed1\fila desperdício posição - strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fila.h"
+
+1621377964 c:\users\taina\documents\período - 2\aed1\fila desperdício posição - strings\fila.h
+
+1621377964 source:c:\users\taina\documents\período - 2\aed1\fila desperdício posição - strings\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+

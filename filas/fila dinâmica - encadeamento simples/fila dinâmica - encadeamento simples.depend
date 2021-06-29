@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1621452671 source:c:\users\taina\documents\período - 2\aed1\fila dinâmica - encadeamento simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fila.h"
+
+1621452476 c:\users\taina\documents\período - 2\aed1\fila dinâmica - encadeamento simples\fila.h
+
+1621452524 source:c:\users\taina\documents\período - 2\aed1\fila dinâmica - encadeamento simples\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+

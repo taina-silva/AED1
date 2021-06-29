@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1622053456 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\filas de prioridade\fila prioridade - encadeada simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fila.h"
+
+1622053768 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\filas de prioridade\fila prioridade - encadeada simples\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1622053383 c:\users\taina\documents\período - 2\aed1\outras estruturas\filas de prioridade\fila prioridade - encadeada simples\fila.h
+
+1622121860 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\fpa\fila prioridade - encadeada simples\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1622121865 c:\users\taina\documents\período - 2\aed1\outras estruturas\fpa\fila prioridade - encadeada simples\fila.h
+
+1622121869 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\fpa\fila prioridade - encadeada simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fila.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1621379088 source:c:\users\taina\documents\período - 2\aed1\fila contador - alunos\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1621379088 c:\users\taina\documents\período - 2\aed1\fila contador - alunos\fila.h
+
+1621391096 source:c:\users\taina\documents\período - 2\aed1\fila contador - alunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fila.h"
+

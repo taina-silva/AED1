@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1620219936 source:c:\users\taina\documents\período - 2\aed1\pilha dinâmica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pilha.h"
+
+1620219999 c:\users\taina\documents\período - 2\aed1\pilha dinâmica\pilha.h
+
+1620219999 source:c:\users\taina\documents\período - 2\aed1\pilha dinâmica\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+

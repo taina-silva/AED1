@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1618670717 source:c:\users\taina\documents\período - 2\aed1\encadeamento circular 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circular.h"
+
+1618670731 c:\users\taina\documents\período - 2\aed1\encadeamento circular 2\circular.h
+
+1618671174 source:c:\users\taina\documents\período - 2\aed1\encadeamento circular 2\circular.c
+	<stdio.h>
+	<stdlib.h>
+	"circular.h"
+
+1618682241 source:c:\users\taina\documents\período - 2\aed1\prática avaliativa - encadeamento circular\encadeamento circular 2\circular.c
+	<stdio.h>
+	<stdlib.h>
+	"circular.h"
+
+1618682241 c:\users\taina\documents\período - 2\aed1\prática avaliativa - encadeamento circular\encadeamento circular 2\circular.h
+
+1618682250 source:c:\users\taina\documents\período - 2\aed1\prática avaliativa - encadeamento circular\encadeamento circular 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circular.h"
+

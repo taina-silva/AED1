@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1620314661 source:c:\users\taina\documents\período - 2\aed1\pilha funcionarios\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilha.h"
+
+1620314661 c:\users\taina\documents\período - 2\aed1\pilha funcionarios\pilha.h
+
+1620315153 source:c:\users\taina\documents\período - 2\aed1\pilha funcionarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<locale.h>
+	"pilha.h"
+
+1620506626 source:c:\users\taina\documents\período - 2\aed1\pilha estática funcionarios\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilha.h"
+
+1620506626 c:\users\taina\documents\período - 2\aed1\pilha estática funcionarios\pilha.h
+
+1620506626 source:c:\users\taina\documents\período - 2\aed1\pilha estática funcionarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<locale.h>
+	"pilha.h"
+

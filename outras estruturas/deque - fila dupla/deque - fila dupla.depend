@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1622125317 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\deque - fila dupla\deque.c
+	<stdio.h>
+	<stdlib.h>
+	"deque.h"
+
+1622124200 c:\users\taina\documents\período - 2\aed1\outras estruturas\deque - fila dupla\deque.h
+
+1622126640 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\deque - fila dupla\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	"deque.h"
+
+1622125317 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\deque - fila dupla - copia\deque.c
+	<stdio.h>
+	<stdlib.h>
+	"deque.h"
+
+1622124200 c:\users\taina\documents\período - 2\aed1\outras estruturas\deque - fila dupla - copia\deque.h
+
+1622126640 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\deque - fila dupla - copia\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	"deque.h"
+

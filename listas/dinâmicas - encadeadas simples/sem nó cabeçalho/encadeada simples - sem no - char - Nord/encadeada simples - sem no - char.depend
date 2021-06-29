@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1622137920 source:c:\users\taina\documents\período - 2\aed1\listas\sem nó cabeçalho\encadeada simples - sem no - char - nord\char.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"char.h"
+
+1622137954 c:\users\taina\documents\período - 2\aed1\listas\sem nó cabeçalho\encadeada simples - sem no - char - nord\char.h
+
+1622137973 source:c:\users\taina\documents\período - 2\aed1\listas\sem nó cabeçalho\encadeada simples - sem no - char - nord\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"char.h"
+

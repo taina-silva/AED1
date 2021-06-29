@@ -1,0 +1,85 @@
+TAD bebidas
+
+Operação cria_lista:
+- entrada: nenhuma
+- pré-condição: nenhuma
+- processo: cria uma lista de strings
+- saída: endereço com lista criada ou NULL caso falha
+- pós-condição: nenhuma
+
+Operação lista_vazia:
+- entrada: endereco de uma lista
+- pré-condição: lista ser válida
+- processo: verificar se não há elementos na lista
+- saída: retornar 1 caso vazia e 0 caso não
+- pós-condição: nenhuma
+
+Operação lista_cheia:
+- entrada: endereço de uma lista
+- pré-condição: lista ser válida
+- processo: verificar a lista está toda preenchida
+- saída: retornar 1 caso cheia e 0 caso não
+- pós-condição: nenhuma
+
+Operação insere_ord:
+- entrada: lista de strings, endereço de array tipo char, um inteiro e um float
+- pré-condição: lista de strings ser válida e não estar cheia
+- processo: inserir na lista as propriedades da bebida (nome - array, volume - inteiro, preço - float) por ordem alfabética e caso nomes sejam iguais, ordenar por volume (crescente)
+- saída: retornar 1 caso sucesso e 0 caso falha
+- pós-condição: lista de bebidas com um elemento (nome, volume e preço) a mais
+
+Operação remove_ord:
+- entrada: lista de strings e endereço de array tipo char
+- pré-condição: lista de strings ser válida e não estar vazia
+- processo: remover string em mencionado da lista 
+- saída: retornar 1 caso sucesso e 0 caso falha
+- pós-condição: lista de strings com um elemento a menos
+
+Operação limpa_lista:
+- entrada: endereço de uma lista
+- pré-condição: lista de strings ser válida e não estar vazia
+- processo: remover todos os elementos da lista
+- saída: retornar 1 caso sucesso e 0 caso falha
+- pós-condição: lista de strings com nenhum elemento
+
+Operação get_posicao:
+- entrada: lista de strings, endereço de array tipo char e endereço de um inteiro
+- pré-condição: lista ser válida e não estar vazia
+- processo: pesquisar ocorrência da string na lista e atribuir sua posição ao conteúdo do inteiro
+- saída: retornar inteiro
+- pós-condição: inteiro com posição da string em questão
+
+Operação get_fim:
+- entrada: lista de strings e endereço de um inteiro
+- pré-condição: lista ser válida
+- processo: atribuir ao inteiro o valor da posição FIM da lista
+- saída: retornar inteiro
+- pós-condição: inteiro com valor da posição fim da lista
+
+Operação get_nome:
+- entrada: lista de strings, inteiro, endereço de array tipo char
+- pré-condição: lista ser válida e não vazia
+- processo: atribuir ao array a string (nome da bebida) da posição indicada pelo inteiro
+- saída: retornar nome da bebida ou NULL caso falha
+- pós-condição: array com nome da bebida
+
+Operação get_volume:
+- entrada: lista de strings, inteiro, endereço de tipo inteiro (v)
+- pré-condição: lista ser válida e não vazia
+- processo: atribuir ao inteiro (v) o conteúdo do volume correspondente à bebida na posição do outro inteiro passado como parâmetro
+- saída: retornar v ou 0 caso falha
+- pós-condição: inteiro com volume da bebida
+
+Operação get_preço:
+- entrada: lista de strings, inteiro, endereço de tipo float (p)
+- pré-condição: lista ser válida e não vazia
+- processo: atribuir ao inteiro (p) o conteúdo de preço correspondente à bebida na posição do outro inteiro passado como parâmetro
+- saída: retornar p ou 0 caso falha
+- pós-condição: float com preço da bebida
+
+Operação liberar_lista:
+- entrada: endereço do endereço de uma lista
+- pré-condição: nenhuma
+- processo: liberar memória da lista usada e limpar seu endereço
+- saída: nenhuma
+- pós-condição: lista liberada

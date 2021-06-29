@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1622118449 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\filas de prioridade\enc\lista heterogênea - din\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lista.h"
+
+1622118152 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\filas de prioridade\enc\lista heterogênea - din\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lista.h"
+
+1622118152 c:\users\taina\documents\período - 2\aed1\outras estruturas\filas de prioridade\enc\lista heterogênea - din\lista.h
+
+1622119616 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\lista heterogênea - din\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lista.h"
+
+1622118152 c:\users\taina\documents\período - 2\aed1\outras estruturas\lista heterogênea - din\lista.h
+
+1622119729 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\lista heterogênea - din\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lista.h"
+
+1622119729 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\lista heterogênea - din - copia\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lista.h"
+
+1622118152 c:\users\taina\documents\período - 2\aed1\outras estruturas\lista heterogênea - din - copia\lista.h
+
+1622119616 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\lista heterogênea - din - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lista.h"
+
+1622119822 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\lista heterogênea - din - copia - copia\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lista.h"
+
+1622118152 c:\users\taina\documents\período - 2\aed1\outras estruturas\lista heterogênea - din - copia - copia\lista.h
+
+1622119616 source:c:\users\taina\documents\período - 2\aed1\outras estruturas\lista heterogênea - din - copia - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lista.h"
+

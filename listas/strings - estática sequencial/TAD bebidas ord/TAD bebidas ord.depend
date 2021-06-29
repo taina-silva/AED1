@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1617674829 source:c:\users\taina\documents\período - 2\aed1\tad bebidas ord\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"bebidas-ord.h"
+
+1617674526 c:\users\taina\documents\período - 2\aed1\tad bebidas ord\bebidas-ord.h
+
+1617675165 source:c:\users\taina\documents\período - 2\aed1\tad bebidas ord\bebidas-ord.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"bebidas-ord.h"
+
+1617674830 source:c:\users\taina\documents\período - 2\aed1\tad strings\tad bebidas ord\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"bebidas-ord.h"
+
+1617674528 c:\users\taina\documents\período - 2\aed1\tad strings\tad bebidas ord\bebidas-ord.h
+
+1617731868 source:c:\users\taina\documents\período - 2\aed1\tad strings\tad bebidas ord\bebidas-ord.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"bebidas-ord.h"
+

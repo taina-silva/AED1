@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1617935912 source:c:\users\taina\documents\período - 2\aed1\questao - 02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alunos.h"
+
+1617935937 c:\users\taina\documents\período - 2\aed1\questao - 02\alunos.h
+
+1617932320 source:c:\users\taina\documents\período - 2\aed1\questao - 02\alunos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alunos.h"
+

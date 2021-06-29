@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1618352173 source:c:\users\taina\documents\período - 2\aed1\no-cabecalho-ord\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"no.h"
+
+1618352089 c:\users\taina\documents\período - 2\aed1\no-cabecalho-ord\no.h
+
+1618352473 source:c:\users\taina\documents\período - 2\aed1\no-cabecalho-ord\no.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"no.h"
+
+1618352174 source:c:\users\taina\documents\período - 2\aed1\nó cabeçalho\no-cabecalho-ord\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"no.h"
+
+1618352090 c:\users\taina\documents\período - 2\aed1\nó cabeçalho\no-cabecalho-ord\no.h
+
+1619547513 source:c:\users\taina\documents\período - 2\aed1\nó cabeçalho\no-cabecalho-ord\no.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"no.h"
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1621464809 source:c:\users\taina\documents\período - 2\aed1\fila encadeada simples - bebidas\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1621464809 c:\users\taina\documents\período - 2\aed1\fila encadeada simples - bebidas\fila.h
+
+1621464809 source:c:\users\taina\documents\período - 2\aed1\fila encadeada simples - bebidas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fila.h"
+
+1621464809 source:c:\users\taina\documents\período - 2\aed1\fila encadeada simples - bebidas - copia (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fila.h"
+
+1621464809 c:\users\taina\documents\período - 2\aed1\fila encadeada simples - bebidas - copia (2)\fila.h
+
+1621464809 source:c:\users\taina\documents\período - 2\aed1\fila encadeada simples - bebidas - copia (2)\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+

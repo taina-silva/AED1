@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1620077118 source:c:\users\taina\documents\período - 2\aed1\recursiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"recursiva.h"
+
+1620077211 c:\users\taina\documents\período - 2\aed1\recursiva\recursiva.h
+
+1620077211 source:c:\users\taina\documents\período - 2\aed1\recursiva\recursiva.c
+	<stdio.h>
+	<stdlib.h>
+	"recursiva.h"
+

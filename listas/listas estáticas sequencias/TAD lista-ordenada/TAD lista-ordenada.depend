@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1617151032 source:c:\users\taina\documents\período - 2\aed1\tad lista-linear\listanord.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+
+1617153034 c:\users\taina\documents\período - 2\aed1\tad lista-linear\lista.h
+
+1617153006 source:c:\users\taina\documents\período - 2\aed1\tad lista-linear\listaord.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+
+1617152004 source:c:\users\taina\documents\período - 2\aed1\tad lista-linear\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+
+1617151032 source:c:\users\taina\documents\período - 2\aed1\tad lista-ordenada\listanord.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+
+1617154131 c:\users\taina\documents\período - 2\aed1\tad lista-ordenada\lista.h
+
+1617153006 source:c:\users\taina\documents\período - 2\aed1\tad lista-ordenada\listaord.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+
+1617154967 source:c:\users\taina\documents\período - 2\aed1\tad lista-ordenada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+
+1619134792 source:c:\users\taina\documents\período - 2\aed1\listas estáticas sequencias\tad lista-ordenada\listanord.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+
+1619134792 c:\users\taina\documents\período - 2\aed1\listas estáticas sequencias\tad lista-ordenada\lista.h
+
+1619134792 source:c:\users\taina\documents\período - 2\aed1\listas estáticas sequencias\tad lista-ordenada\listaord.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+
+1619134792 source:c:\users\taina\documents\período - 2\aed1\listas estáticas sequencias\tad lista-ordenada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lista.h"
+

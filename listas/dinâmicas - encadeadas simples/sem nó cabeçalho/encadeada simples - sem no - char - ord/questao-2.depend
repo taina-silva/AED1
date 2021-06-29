@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1617758734 source:c:\users\taina\documents\período - 2\aed1\questao-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ord.h"
+
+1617758728 c:\users\taina\documents\período - 2\aed1\questao-2\ord.h
+
+1617758739 source:c:\users\taina\documents\período - 2\aed1\questao-2\ord.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ord.h"
+
+1622137012 source:c:\users\taina\documents\período - 2\aed1\listas\sem nó cabeçalho\questao-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ord.h"
+
+1622137034 c:\users\taina\documents\período - 2\aed1\listas\sem nó cabeçalho\questao-2\ord.h
+
+1622137193 source:c:\users\taina\documents\período - 2\aed1\listas\sem nó cabeçalho\questao-2\ord.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ord.h"
+
+1622137012 source:c:\users\taina\documents\período - 2\aed1\listas\sem nó cabeçalho\encadeada simples - sem no - char - ord\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ord.h"
+
+1622137034 c:\users\taina\documents\período - 2\aed1\listas\sem nó cabeçalho\encadeada simples - sem no - char - ord\ord.h
+
+1622137710 source:c:\users\taina\documents\período - 2\aed1\listas\sem nó cabeçalho\encadeada simples - sem no - char - ord\ord.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ord.h"
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1621289965 source:c:\users\taina\documents\período - 2\aed1\fila estática - uso contador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fila.h"
+
+1621289927 c:\users\taina\documents\período - 2\aed1\fila estática - uso contador\fila.h
+
+1621289940 source:c:\users\taina\documents\período - 2\aed1\fila estática - uso contador\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1622211740 source:c:\users\taina\documents\período - 2\aed1\filas\fila estática - uso contador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fila.h"
+
+1622211740 c:\users\taina\documents\período - 2\aed1\filas\fila estática - uso contador\fila.h
+
+1622212672 source:c:\users\taina\documents\período - 2\aed1\filas\fila estática - uso contador\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+

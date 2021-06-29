@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1620318349 source:c:\users\taina\documents\período - 2\aed1\pilha strings\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilha.h"
+
+1620318349 c:\users\taina\documents\período - 2\aed1\pilha strings\pilha.h
+
+1620318353 source:c:\users\taina\documents\período - 2\aed1\pilha strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pilha.h"
+
